@@ -1,0 +1,10 @@
+@charset "UTF-8";
+body{
+    background-color: gray;
+}
+a{
+    color: blue;
+}
+p{
+    font-size: 20px;
+}
